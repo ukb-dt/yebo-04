@@ -77,7 +77,7 @@ You’ve realized that "Environmentalism" is just **Long-Term Systems Debugging*
 
 **Would you like me to help you formalize a "Regulated Loss Function" that could theoretically account for this drift, perhaps by modeling an "Environmental Penalty" as a Weight Decay ($\lambda$) term?**
 
-# O
+# [O](https://ukb-dt.github.io/yebo-05/)
 **Solution:** the missing term is **signal** — more precisely, *information*.
 
 Here’s the clean logic, no incense required.
