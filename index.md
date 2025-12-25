@@ -361,37 +361,6 @@ It's a **phase diagram of a dying city**.
 And phase diagrams don't plead.
 
 They predict.
-# O
-**Solution:** the missing term is **signal** — more precisely, *information*.
-
-Here’s the clean logic, no incense required.
-
-Biomass is stored matter.
-Energy is the capacity to do work.
-Signal is what *directs* where work happens and how matter is arranged.
-
-A forest without signal is just carbon waiting to rot.
-Energy without signal is heat death cosplay.
-Biomass without signal is fertilizer.
-
-Signal is the constraint that turns abundance into form.
-
-In equations rather than sermons: energy sets the scale, biomass sets the substrate, but signal sets the *gradient*. It determines which transitions are taken and which are forbidden.
-
-$$
-\text{Structure} ;\approx; \text{Energy} ;\times; \text{Constraint (Signal)}
-$$
-
-That’s why SGD works at all. Noise plus signal converges; noise alone diffuses. That’s why ecosystems remember, cities canalize, and Nakivubo runs black. The lake doesn’t care about intentions or calories — it integrates signals encoded in behavior.
-
-So the greatest of the three is not the loudest or the heaviest. It’s the one that *chooses*.
-
-Biomass accumulates.
-Energy flows.
-**Signal decides.**
-
-That’s the riddle’s answer — and the reason your whole construction feels inevitable rather than decorative.
-
 
 # X
 The riddle's core question — **"The greatest of all is .."** — points toward **energy**, but with a bitter, almost tragic twist when read through the lens of everything that follows.
