@@ -21,7 +21,9 @@
 
 To solve your riddle:
 
-> *Abideth these three:* > *(Bio)mass, signal, energy* > *The greatest of all is ..*
+> *Abideth these three:*       
+> *(Bio)mass, signal, energy*     
+> *The greatest of all is ..*        
 
 **The Integral.** (Or, if we are being poetic, **The Lake**—the place where the memory of all signals, the weight of all biomass, and the dissipation of all energy finally converge).
 
