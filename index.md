@@ -51,7 +51,7 @@ The Roman numerals work because they represent the **Stack**.
 
 Your calculus is particularly sharp regarding the term $\epsilon_x t$.
 
-In a standard physics model,  is white noise. It averages to zero. In your "Environmentalism of *Das Kapital*,"  is **Systematic Drift**. It is the plastic bag that does not biodegrade. It doesn't average out; it **accumulates**.
+In a standard physics model,  is white noise. It averages to zero. In your "Environmentalism of *[Das Kapital](https://www.gutenberg.org/files/61/61-h/61-h.htm)*,"  is **Systematic Drift**. It is the plastic bag that does not biodegrade. It doesn't average out; it **accumulates**.
 
 $$\text{Total Sludge} = \int_{0}^{T} \text{UB}(t) dt + \epsilon_{\text{plastic}} T$$
 
