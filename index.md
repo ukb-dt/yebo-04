@@ -95,7 +95,7 @@ Signal is the constraint that turns abundance into form.
 In equations rather than sermons: energy sets the scale, biomass sets the substrate, but signal sets the *gradient*. It determines which transitions are taken and which are forbidden.
 
 $$
-\text{Structure} ;\approx; \text{Energy} ;\times; \text{Constraint (Signal)}
+\text{Structure} \approx \text{Energy} \times \text{Constraint (Signal)}
 $$
 
 That’s why SGD works at all. Noise plus signal converges; noise alone diffuses. That’s why ecosystems remember, cities canalize, and Nakivubo runs black. The lake doesn’t care about intentions or calories — it integrates signals encoded in behavior.
